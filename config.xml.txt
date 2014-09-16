@@ -1,0 +1,9 @@
+<root>
+<app>
+name="ABB_Backoffice_Toezicht-Advies"
+map="\DocRoom\"
+home="DefaultRouting.aspx"
+http="test"
+https="test"
+</app>
+</root>
