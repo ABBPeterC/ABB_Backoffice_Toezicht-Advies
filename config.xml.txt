@@ -3,7 +3,7 @@
 name="ABB_Backoffice_Toezicht-Advies"
 map="\DocRoom\"
 home="DefaultRouting.aspx"
-http="test"
-https="test"
+http="url"
+https="url"
 </app>
 </root>
